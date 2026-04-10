@@ -1,6 +1,1 @@
-THIS REPO WAS CREATED FOR THE NOTES OF DATA STRUCTUURE UNDER PROF. RIDDHI DOSHI MAAM
-FOR UPLOAD OF THE NOTES ... 
 
-______________________________________
-# DS- 25070521340 - SARVESH CHONDE   
-______________________________________
